@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taiwopeter-babs
 - 👀 I’m interested in Data analytics, data science and Blockchain technology
-- 🌱 I’m currently learning Data analytics by googleSolidity
+- 🌱 I’m a python and Smart Contract developer
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me babalolataiwop@gmail.com
 
