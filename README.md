@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Taiwopeter-babs
-- 👀 I’m interested in Data analytics, data science and Blockchain technology
-- 🌱 I’m a python and Smart Contract developer
+- 👋 Hi, I’m Taiwo
+- 👀 I develop web applications with Flask
+- 🌱 I’m also interested in Blockchain technology
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me babalolataiwop@gmail.com
 
