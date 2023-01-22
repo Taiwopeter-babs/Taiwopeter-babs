@@ -9,7 +9,7 @@ to make quality education accesible to as many young people as possible.
 - 🌱 I’m currently a software engineering student at ALX AFRICA
 - 💬 Ask me about C, Python, terminal commands on Ubuntu or any linux distribution. I promise
    to respond as try to help.
-- 📫 How to reach me: (![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white))[https://twitter.com/realtaiwo_peter] (![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))[www.linkedin.com/in/taiwo-babalola-peter]
+- 📫 How to reach me: (Twitter)[https://twitter.com/realtaiwo_peter] (LinkedIn)[www.linkedin.com/in/taiwo-babalola-peter]
 
 - ⚡ Fun fact: 
 	- I use Vim and enjoy it 😁. 
