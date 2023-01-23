@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./Software Engineer-2.png)
 
 
 ### Hi there! I am Taiwo 👋
@@ -7,8 +7,8 @@ I am a software engineer from Lagos, Nigeria. I am passionate about using my kno
 to make quality education accesible to as many young people as possible.
 
 - 🌱 I’m currently a software engineering student at ALX AFRICA
-- 💬 Ask me about C, Python, terminal commands on Ubuntu or any linux distribution. I promise
-   to respond as try to help.
+- 💬 Ask me about C, Python, terminal commands on Ubuntu. I promise
+   to respond ASAP.
 - 📫 How to reach me: [Twitter](https://twitter.com/realtaiwo_peter) [LinkedIn](www.linkedin.com/in/taiwo-babalola-peter)
 
 - ⚡ Fun fact: 
